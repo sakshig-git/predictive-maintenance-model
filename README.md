@@ -4,12 +4,12 @@
 ## 👥 Team Details
 
 - **Team Name:**  Predictive Maintenance Matrix
-- **Members:**  
--Member 1 : Sandeep P
--Member 2 : Sakshi Rajesh Gajghate
--Member 3 : Joshi Bhargav Ammavajhala
--Member 4 : Ramanjaneyulu Kurma
--Member 5 : Yogitha Chundu  
+- **Members:**
+- Member 1 : Sandeep P
+- Member 2 : Sakshi Rajesh Gajghate
+- Member 3 : Joshi Bhargav Ammavajhala
+- Member 4 : Ramanjaneyulu Kurma
+- Member 5 : Yogitha Chundu  
 - **Domain Category:** AI / Predictive Analytics / Industrial AI    
 - **Demo Video:** Sharepoint URL of your MVP demo  
 
@@ -134,7 +134,6 @@ predictive-maintenance-model/
 ├── docs/                              # Functional & business documentation
 │   ├── Functional_Requirements_Document.pdf
 │   ├── Business_Process_Flow.pdf
-│   └── ROI_Calculation_Model.xlsx
 │
 ├── integration/                       # MuleSoft configuration (simulation / reference)
 │   ├── mule-flow.xml
@@ -308,7 +307,7 @@ Create REST API Endpoint
 
 Endpoint:
 
-POST /api/now/table/incident
+/api/now/table/incident
 
 Required Mapping:
 Salesforce Field	ServiceNow Field
