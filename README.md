@@ -199,7 +199,7 @@ ITOM enabled
 Data Loader (for initial data upload)
 
 ## 2️⃣ Clone Repository
-git clone https://github.com/your-username/predictive-maintenance-model
+git clone https://github.com/sakshig-git/predictive-maintenance-model
 cd predictive-maintenance-model
 
 ## 3️⃣ Salesforce Configuration Setup
@@ -326,7 +326,7 @@ Upload Telemetry CSV
 
 Place file in:
 
-/data/Predictive_Maintenance_Data.csv
+/data/Telemetry_Data.csv
 
 
 MuleSoft will:
@@ -362,15 +362,12 @@ Option 1 – Use Sample Dataset
 
 File location:
 
-/data/Predictive_Maintenance_Data.csv
+/data/Telemetry_Data.csv
 
 
 Upload via:
 
 MuleSoft File Listener
-OR
-
-Salesforce Data Loader
 
 Test Case 1 – Moderate Risk
 
