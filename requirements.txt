@@ -1,0 +1,30 @@
+# ============================================
+# Predictive Maintenance PoC - Requirements
+# ============================================
+# This project is built primarily on:
+# - Salesforce Service Cloud
+# - Salesforce Field Service (FSL)
+# - Einstein Prediction Builder
+# - MuleSoft Anypoint Platform
+# - ServiceNow ITOM
+#
+#
+# Platform Dependencies (External):
+# --------------------------------------------
+# Salesforce Org with:
+#   - Service Cloud
+#   - Field Service Lightning
+#   - Einstein Prediction Builder
+#
+# MuleSoft:
+#   - Anypoint Studio 7.x+
+#
+# ServiceNow:
+#   - Developer Instance (ITOM enabled)
+#
+# ============================================
+# NOTE:
+# This repository contains configuration,
+# documentation, and integration artifacts.
+# No local runtime dependencies are required.
+# ============================================
