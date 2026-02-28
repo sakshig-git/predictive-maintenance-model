@@ -5,11 +5,11 @@
 
 - **Team Name:**  Predictive Maintenance Matrix
 - **Members:**
-- Member 1 : Sandeep P
-- Member 2 : Sakshi Rajesh Gajghate
-- Member 3 : Joshi Bhargav Ammavajhala
-- Member 4 : Ramanjaneyulu Kurma
-- Member 5 : Yogitha Chundu  
+   Sandeep P
+   Sakshi Rajesh Gajghate
+   Joshi Bhargav Ammavajhala
+   Ramanjaneyulu Kurma
+   Yogitha Chundu  
 - **Domain Category:** AI / Predictive Analytics / Industrial AI    
 - **Demo Video:** Sharepoint URL of your MVP demo  
 
