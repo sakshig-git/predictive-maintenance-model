@@ -131,9 +131,6 @@ predictive-maintenance-model/
 ├── architecture/                      # System architecture assets
 │   └── predictive_maintenance_architecture.png
 │
-├── docs/                              # Functional & business documentation
-│   ├── Functional_Requirements_Document.pdf
-│   ├── Business_Process_Flow.pdf
 │
 ├── integration/                       # MuleSoft configuration (simulation / reference)
 │   ├── mule-flow.xml
